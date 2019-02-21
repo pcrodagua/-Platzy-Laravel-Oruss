@@ -1,1 +1,3 @@
-# -Platzy-Laravel-Oruss
+# [Platzy] Laravel Oruss
+
+Capacitación laboral, introducción a laravel.
